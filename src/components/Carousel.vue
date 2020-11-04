@@ -99,8 +99,7 @@ export default {
       sliderValue: 2,
       isActive: true,
       categoriesInfo: [],
-      host: '104.131.86.178'
-      // host: window.location.hostname,
+     host: window.location.hostname,
     };
   },
   methods: {

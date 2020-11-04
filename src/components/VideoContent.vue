@@ -20,8 +20,8 @@ export default {
   name: "VideoContent",
   data(){
   return {
-    host: '104.131.86.178'
-    // host: window.location.hostname,
+
+    host: window.location.hostname,
   }
 },
 

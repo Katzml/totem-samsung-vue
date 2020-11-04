@@ -7,8 +7,7 @@ export default {
 name:'LogoSamsung',
 data(){
   return {
-    // host: window.location.hostname,
-    host: '104.131.86.178'
+    host: window.location.hostname,
   }
 }
 }
